@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
+<h1 align="center">Faisal Ahmed</h1>
 <h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalshamsabbasi&label=Profile%20views&color=0e75b6&style=flat" alt="faisalshamsabbasi" /> </p>
